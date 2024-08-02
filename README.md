@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danielius Ryliškis</h1>
-<h3 align="center">Dedicated front-end developer with a passion for web development, aspiring to eventually become a skilled full-stack developer.</h3>
+<h3 align="center">Dedicated full-stack developer with a strong passion for web development.
 
 - 🔭 I’m currently working on [Delayo](https://github.com/DanieliusRyliskis/Delayo)
 
-- 🌱 I’m currently learning **React and also trying to become proficient in JavaScript**
+- 🌱 I’m currently learning **vim and node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanieliusRyliskis?tab=repositories](https://github.com/DanieliusRyliskis?tab=repositories)
 
