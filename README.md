@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danielius Ryliškis</h1>
 <h3 align="center">Dedicated full-stack developer with a strong passion for web development.
 
-- 🌱 I’m currently learning **Astro**
-
 - 👨‍💻 All of my projects are available at [https://github.com/DanieliusRyliskis?tab=repositories](https://github.com/DanieliusRyliskis?tab=repositories)
 
 - 📫 How to reach me **https://www.linkedin.com/in/danielius-ryliskis/**
